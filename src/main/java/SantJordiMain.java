@@ -7,7 +7,7 @@ public class SantJordiMain {
     public static void main(String[] args) {
         RegalService regalService = new RegalService();
 
-        System.out.println("Escull un tipus de regal (LLIBRE / ROSA):");
+        System.out.println("Escull un tipus de regal (LLIBRE 0 ROSA):");
         TipusRegal tipus = TipusRegal.valueOf(scanner.next().toUpperCase());
 
         Regal regal = regalService.getRandomRegal(tipus);
