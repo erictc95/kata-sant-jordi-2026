@@ -1,4 +1,4 @@
-public enum ColoRosa {
+public enum ColorRosa {
     VERMELL,
     GROC,
     BLANC,

@@ -1,4 +1,4 @@
-public enum TitoLlibre {
+public enum TitolLlibre {
     EL_ALQUIMISTA,
     MAS_FUERTE_QUE_NUNCA,
     LOS_HOMBRES_QUE_NO_AMABAN_A_LAS_MUJERES,
