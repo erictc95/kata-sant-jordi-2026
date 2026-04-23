@@ -16,6 +16,6 @@ public class Rosa implements Regal{
 
     @Override
     public String getDescripcio() {
-        return "Rosa de color : " + getColor();
+        return "Rosa de color: " + getColor();
     }
 }
