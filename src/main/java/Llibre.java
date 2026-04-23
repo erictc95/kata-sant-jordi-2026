@@ -16,6 +16,6 @@ public class Llibre implements Regal{
 
     @Override
     public String getDescripcio() {
-        return "Títol :" + getTitol();
+        return "Títol : " + getTitol();
     }
 }
